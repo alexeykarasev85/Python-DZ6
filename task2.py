@@ -13,6 +13,8 @@ for i in range(len(list)):
     if first<=list[i]<= second:
         print(i, end=' ')
 
+
+
 # list = [-5, 9, 0, 3, -1, -2, 1, 4, -2, 10, 2, 0, -9, 8, 10, -9, 0, -5, -5, 7]
 # list_1=[]
 # first = int(input ("Введите начальное число диапазона: "))

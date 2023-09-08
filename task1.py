@@ -9,6 +9,6 @@ step = int(input ("Введите шаг: "))
 elem = int(input ("Введите количество элементов: "))
 
 
-for i in range(first, first+elem*step , step):
+for i in range(first, first+elem*step, step):
     print(i, end=' ')
 
